@@ -7,6 +7,6 @@ Interact with your NoSQL database in plain language, allowing precise Text-to-No
 
 ---
 
-![Vanna2 Diagram](img/vanna2.svg)
+![Lexora Diagram](img/Lexora_framework.png)
 
 ---
