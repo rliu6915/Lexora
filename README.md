@@ -4,9 +4,5 @@ Interact with your NoSQL database in plain language, allowing precise Text-to-No
 ## Quick Start
 
 ### Basic Workflow
-
----
-
 ![Lexora Diagram](img/Lexora_framework.png)
 
----
